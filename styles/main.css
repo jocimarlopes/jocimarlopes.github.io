@@ -1465,9 +1465,9 @@ fieldset[disabled]
 
 .btn.btn-icon.btn-lg,
 .navbar .navbar-nav > a.btn.btn-icon.btn-lg {
-  height: 3.6rem;
-  min-width: 3.6rem;
-  width: 3.6rem;
+  height: 2.0rem;
+  min-width: 2.0rem;
+  width: 2.0rem;
 }
 
 .btn.btn-icon.btn-lg i.now-ui-icons,
