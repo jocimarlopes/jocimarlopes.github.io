@@ -1,14 +1,17 @@
-.button-jl{
+.active-jl{
     background-color: #378C3F;
 }
-.position-jl{
-    position: absolute;
-    left: 65px;
+@media screen and (min-width: 600px) {
+    .position-jl{
+        position: absolute;
+        left: 65px;
+    }
 }
 @media screen and (max-width: 600px) {
     .position-jl{
         position: absolute;
-        left: 32%;
-        top: 40%;
+        width: 1000px;
+        margin: 0 auto;
+        z-index: 1;
     }
 }
