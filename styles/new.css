@@ -5,3 +5,10 @@
     position: absolute;
     left: 65px;
 }
+@media screen and (max-width: 600px) {
+    .position-jl{
+        position: absolute;
+        left: 140px;
+        top: 35px;
+    }
+}
