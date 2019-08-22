@@ -13,5 +13,6 @@
         width: 1000px;
         margin: 0 auto;
         z-index: 1;
+        float: left;
     }
 }
