@@ -10,9 +10,8 @@
 @media screen and (max-width: 600px) {
     .position-jl{
         position: absolute;
-        width: 250px;
+        max-width: 250px;
         margin: 0 auto;
-        z-index: 1;
         
     }
 }
