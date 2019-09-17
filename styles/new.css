@@ -17,5 +17,11 @@
 }
 .site-info {
     text-align: center;
-    font-size: 12px;
+    font-size: 10px;
+    position: relative;
+    left: 50%;
+    right: 50%;
+}.site-info:hover {
+    color: #378C3F !important;
 }
+
