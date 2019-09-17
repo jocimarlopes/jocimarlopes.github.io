@@ -20,7 +20,7 @@
     font-size: 10px;
     position: relative;
     left: 50%;
-    right: 50%;
+    right: -50%;
 }.site-info:hover {
     color: #378C3F !important;
 }
