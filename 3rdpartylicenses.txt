@@ -282,6 +282,9 @@ Apache-2.0
  
 
 
+split-type
+ISC
+
 tslib
 0BSD
 Copyright (c) Microsoft Corporation.
