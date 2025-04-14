@@ -1,0 +1,66 @@
+{
+    "HOME": {},
+    "HEADER": {
+        "TITLE_CARD": "OLÁ MUNDO",
+        "SUBTITLE": "Desenvolvedor Mobile Full-Stack",
+        "EMAIL": "E-mail",
+        "PHONE": "Telefone"
+    },
+    "ABOUT": {
+        "TITLE_CARD": "SOBRE",
+        "DESCRIPTION": "Sou desenvolvedor Full Stack com experiência em aplicações híbridas utilizando Ionic, Angular, Python e Node.js. Atuo no desenvolvimento de soluções eficientes, escaláveis e com foco na experiência do usuário. Tenho interesse em tecnologias emergentes como inteligência artificial e automação, aplicando inovação de forma estratégica. Prezo por boas práticas de codificação, arquitetura limpa e entregas de alto valor. Busco constantemente aprimorar minhas habilidades e contribuir com projetos desafiadores e relevantes."
+    },
+    "SKILLS": {
+        "TITLE_CARD": "SKILLS",
+        "LANGUAGES": "Linguagens/Frameworks",
+        "SERVICES": "Softwares/Serviços"
+    },
+    "EXPERIENCE": {
+        "TITLE_CARD": "EXPERIÊNCIA",
+        "EXPERIENCE_ONE": {
+          "OCCUPATION": "Estagiário de TI",
+          "COMPANY": "Faculdade Cenecista de Osório",
+          "TIME": "ABR/2011 - DEZ/2012"
+        },
+        "EXPERIENCE_TWO": {
+          "OCCUPATION": "CEO & Desenvolvedor de Software",
+          "COMPANY": "Jolo Systems (Startup)",
+          "TIME": "OUT/2018 - Atualmente"
+        },
+        "EXPERIENCE_THREE": {
+          "OCCUPATION": "Desenvolvedor Mobile",
+          "COMPANY": "MJV Technology & Innovation",
+          "TIME": "FEV/2022 - JUN/2022"
+        },
+        "EXPERIENCE_FOUR": {
+          "OCCUPATION": "Analista Desenvolvedor de Sistemas",
+          "COMPANY": "Stefanini Brasil (cliente Bradesco Seguros)",
+          "TIME": "NOV/2022 - FEV/2024"
+        },
+        "EXPERIENCE_FIVE": {
+          "OCCUPATION": "Desenvolvedor Mobile II",
+          "COMPANY": "GFT Technologies (cliente Bradesco Seguros)",
+          "TIME": "OUT/2024 - ABR/2025"
+        }
+    },
+    "INTERESTS": {
+        "TITLE_CARD": "INTERESSES",
+        "DESCRIPTION": "Começo o dia com um bom café forte, essencial para manter o foco e a energia. Desenvolver sistemas ao som de música se tornou mais do que um hábito — é uma paixão. Valorizo esses momentos de silêncio e imersão no código, onde me sinto verdadeiramente em casa. Fora do trabalho, gosto de jogar videogame com meu filho e aproveitar momentos de qualidade com minha família."
+    },
+    "EDUCATION": {
+      "TITLE_CARD": "EDUCAÇÃO",
+      "EDUCATION_ONE": {
+        "COURSE": "Ensino Médio",
+        "TIME": "2010 / 2014",
+        "INSTITUTION": "E. E. E. B. Prudente de Morais"
+      },
+      "EDUCATION_TWO": {
+        "COURSE": "Análise e Desenvolvimento de Sistemas",
+        "TIME": "2024 / Atualmente",
+        "INSTITUTION": "IFRS - Instituto Federal do Rio Grande do Sul"
+      }
+    },
+    "PROJECTS": {
+        "TITLE_CARD": "PROJETOS"
+    }
+}
